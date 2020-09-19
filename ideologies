@@ -1,0 +1,90 @@
+ ideologies = [
+ {
+        "name": "National Capitalism",
+        "stats": {
+            "econ": 20,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+     {
+        "name": "Capitalist Fascism",
+        "stats": {
+            "econ": 20,
+            "govt": 10,
+            "scty": 10
+        }
+    },
+     {
+        "name": "Authoritarian Capitalism",
+        "stats": {
+            "econ": 20,
+            "govt": 10,
+            "scty": 50
+        }
+    },
+     {
+        "name": "State Liberalism",
+        "stats": {
+            "econ": 20,
+            "govt": 10,
+            "scty": 80
+        }
+    },
+     {
+        "name": "Paleoconservatism",
+        "stats": {
+            "econ": 10,
+            "govt": 40,
+            "scty": 10
+        }
+    },
+     {
+        "name": "State Capitalism",
+        "stats": {
+            "econ": 20,
+            "govt": 30,
+            "scty": 50
+        }
+    },
+     {
+        "name": "Ultra-Capitalism",
+        "stats": {
+            "econ": 0,
+            "govt": 60,
+            "scty": 40
+        }
+    },
+     {
+        "name": "Paleolibertarianism",
+        "stats": {
+            "econ": 10,
+            "govt": 70,
+            "scty": 10
+        }
+    },
+     {
+        "name": "Libertarian Capitalism",
+        "stats": {
+            "econ": 20,
+            "govt": 80,
+            "scty": 60
+        }
+    },
+     {
+        "name": "Pink Capitalism",
+        "stats": {
+            "econ": 10,
+            "govt": 90,
+            "scty": 90
+        }
+    },
+    {
+        "name": "Hoppeanism",
+        "stats": {
+            "econ": 5,
+            "govt": 0,
+            "scty": 5
+        }
+    },
+   
