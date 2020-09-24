@@ -1,0 +1,145 @@
+questions = [
+    {
+        "question": "People who don’t have a good reason should not be allowed to own a gun.",
+        "effect": {
+            "econ": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+ {
+        "question": "It is necessary to have environmental regulations.",
+        "effect": {
+            "econ": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+     {
+        "question": "I support universal healthcare.",
+        "effect": {
+            "econ": 10,
+            "govt": -2,
+            "scty": 0
+        }
+    },
+     {
+        "question": "There are certain views that the government should discourage people from expressing.",
+        "effect": {
+            "econ": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+     {
+        "question": "Climate change is a major threat to the Earth.",
+        "effect": {
+            "econ": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+     {
+        "question": "Science and technology must continue to advance.",
+        "effect": {
+            "econ": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+     {
+        "question": "It is necessary to have government surveillance in today's world.",
+        "effect": {
+            "econ": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+     {
+        "question": "It is unrealistic to provide welfare for everyone.",
+        "effect": {
+            "econ": -10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+     {
+        "question": "Workers should own the means of production.",
+        "effect": {
+            "econ": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+      {
+        "question": "It is wrong that many basic necessities, such as food, have been so heavily commodified.",
+        "effect": {
+            "econ": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+     {
+        "question": "My nation is great.",
+        "effect": {
+            "econ": 0,
+            "govt": -5,
+            "scty": -5
+        }
+    },
+     {
+        "question": "People who don’t have a good reason should not be allowed to own a gun.",
+        "effect": {
+            "econ": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+     {
+        "question": "From each according to their ability, to each according to their need.",
+        "effect": {
+            "econ": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+     {
+        "question": "Drug use should be decriminalized.",
+        "effect": {
+            "econ": 0,
+            "govt": 10,
+            "scty": 0
+        }
+    },
+     {
+        "question": "The government should monitor corporations to protect the public.",
+        "effect": {
+            "econ": 10,
+            "govt": -5,
+            "scty": 0
+        }
+    },
+     {
+        "question": "The rich should be highly taxed.",
+        "effect": {
+            "econ": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+     {
+        "question": "The fact that people are homeless is a failure of the system.",
+        "effect": {
+            "econ": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+     {
+        "question": "It is important  .",
+        "effect": {
+            "econ": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
